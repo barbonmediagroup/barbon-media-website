@@ -1,0 +1,8 @@
+# Self-hosted web fonts (optional)
+# Fonts are loaded from Google Fonts CDN by default
+# If self-hosting, add:
+# - Newsreader-Italic.woff2
+# - Manrope-400.woff2
+# - Manrope-500.woff2
+# - Manrope-600.woff2
+# - JetBrainsMono-400.woff2
