@@ -41,11 +41,11 @@ All brand guidelines are in `brand/brand-guide.md`. Key reference:
 
 ## Quick Links
 
-- Domain: barbon.co
+- Domain: barbonstudios.com
 - Booking portal: Spiro (book.barbonstudios.com/order/barbon/order-page)
-- Instagram: @barbon.media
+- Instagram: @barbon.media.group
 - Location: Birmingham, UK
 
 ---
 
-Built with care. Told well. Made 2026.
+Built with care. Told well. Made 2025.
